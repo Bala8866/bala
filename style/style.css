@@ -114,7 +114,7 @@ span {
 .home-image img {
   width: 500px;
   height: 500px;
-  filter: drop-shadow (0 0 0.75rem light blue);
+  filter: drop-shadow (0 0 0.75rem lightblue);
   margin: 10px;
   animation: floatImage 4s ease-in-out infinite;
 }
